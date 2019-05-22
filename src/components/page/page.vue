@@ -14,6 +14,9 @@
                 <ui-list-item title="规范" to="/standard">
                     <ui-icon slot="left" value="grade"/>
                 </ui-list-item>
+                <ui-list-item title="关于" href="https://project.yunser.com/products/5bc1784070dd11e99b6d297a68569001" target="_blank">
+                    <ui-icon slot="left" value="info"/>
+                </ui-list-item>
             </ui-list>
         </div>
         <slot></slot>

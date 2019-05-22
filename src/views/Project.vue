@@ -1,6 +1,8 @@
 <template>
     <my-page title="团队作品">
-        <div>暂无作品。</div>
+        <div class="common-container container">
+            <div>暂无作品。</div>
+        </div>
     </my-page>
 </template>
 
